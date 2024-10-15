@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy DAN
 
-<!--
-**Dan-OK/Dan-OK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas de Información, apasionado por el desarrollo de software y la tecnología. Actualmente me enfoco en el desarrollo web, frontend y backend, siempre buscando aprender algo nuevo y mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- **Lenguajes:** JavaScript, C++
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express
+- **Bases de datos:** MySQL, MongoDB
+- **Control de versiones:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 En proceso de aprendizaje
+- Node.js y Express
+- MongoDB
+- React
+- TypeScipt
+- Testing con Jest
+
+---
+
+✨ Abierto a colaborar en proyectos y aprender cosas nuevas.
